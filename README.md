@@ -1,4 +1,4 @@
-# GitKraken Lighthouse
+# GitKraken Lighthouse Forcing Merge
 
 ##  GitKraken is a powerful multiplatform graphical interface for Git developed by Axosoft
 
