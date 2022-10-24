@@ -29,7 +29,21 @@
     - git push -u <remote-name> <branch-name>   -> Upload the committed changes to origin setting upstream.
     - git pull <remote-name> <branch-name>      -> Update local repository from remote.
 
+    - git stash
+    - git pop
     - git log
     - git revert
     - git rebase
     - git merge <branch-name>                   -> Merge actual branch to target branch.
+
+
+
+### Guideline
+
+- Normal git flow.
+- Easy branch management.
+- Stash/Pop management.
+- Terminal included.
+- Powerful merge solving tool.
+- Account management.
+- Pro account included in Github student pack.
